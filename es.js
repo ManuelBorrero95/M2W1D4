@@ -84,5 +84,4 @@ let name1 = "john";
 let name2 = "John";
 var result3 = name1 == name2;
 console.log(result3);
-
 console.log(name1.toLocaleLowerCase == name2.toLocaleLowerCase);
