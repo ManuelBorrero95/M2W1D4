@@ -13,7 +13,7 @@ REGOLE
 
 /* SCRIVI QUI LA TUA RISPOSTA 
 
- in Javascript per datatype si intendono i tipi di dato che possiamo assegnare ad una varibiale.
+ in Javascript per datatype si intendono i tipi di dato che possiamo assegnare ad una varibiale o una costante.
 i datatype principali sono:
 Number --> che rappresenta i valori numerici es: 1,2,3,4 ecc ecc
 string --> che rappresenta i valori testuali es: "CIAO JS"
